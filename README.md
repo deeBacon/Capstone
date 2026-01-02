@@ -1,6 +1,7 @@
 # From Ashes to Insights: Building a Cricket AI
 
 A grounded AI chatbot for cricket analytics that prevents hallucinations by connecting LLMs to verified, context-adjusted player performance data.
+Recorded Presentation: https://youtu.be/r99_qD8BDxc?list=PLY6YeDCZtq8X0cSTZHAkN8jSHHnRLsVXi&t=21939
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
